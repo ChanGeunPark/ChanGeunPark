@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 땅콩처럼 고소한 개발자 박찬근 입니다. 👋
 
 <!--
 **ChanGeunPark/ChanGeunPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
